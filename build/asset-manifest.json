@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a64f46ec.css",
-    "main.js": "/static/js/main.74f30551.js",
+    "main.css": "/static/css/main.faaeffa6.css",
+    "main.js": "/static/js/main.49b3bb29.js",
     "static/media/banner-prueba.png": "/static/media/banner-prueba.5e40c6a9d7c2f4889a5b.png",
     "static/media/medalla-plata-2do-lugar-plata_87720-2497.avif": "/static/media/medalla-plata-2do-lugar-plata_87720-2497.e9a57b6be1d9332dc85c.avif",
     "static/media/oro.avif": "/static/media/oro.308289dcbf293737f671.avif",
@@ -12,11 +12,11 @@
     "static/media/logo-ansv.webp": "/static/media/logo-ansv.6b8cb825b18fd264db59.webp",
     "static/media/logo-superindycom (1).webp": "/static/media/logo-superindycom (1).4870c8501e84b267d72a.webp",
     "index.html": "/index.html",
-    "main.a64f46ec.css.map": "/static/css/main.a64f46ec.css.map",
-    "main.74f30551.js.map": "/static/js/main.74f30551.js.map"
+    "main.faaeffa6.css.map": "/static/css/main.faaeffa6.css.map",
+    "main.49b3bb29.js.map": "/static/js/main.49b3bb29.js.map"
   },
   "entrypoints": [
-    "static/css/main.a64f46ec.css",
-    "static/js/main.74f30551.js"
+    "static/css/main.faaeffa6.css",
+    "static/js/main.49b3bb29.js"
   ]
 }
