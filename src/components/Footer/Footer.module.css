@@ -52,3 +52,29 @@ img{
     width: 10rem;
     margin-left: 10px;
 }
+
+@media screen and (max-width: 844px) {
+    .contactanos {
+        display: none;
+    }
+    .container_images{
+        display: flex;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100vw;
+        margin-right: 75px;
+    }
+
+    .servicios{
+        display: none;
+    }
+
+    .footer{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+    }
+}
