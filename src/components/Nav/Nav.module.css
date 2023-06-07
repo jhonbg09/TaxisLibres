@@ -1,0 +1,45 @@
+:root{
+ --nav-bg: #000205;
+ --color-fuente: white;
+ --font-hover: #C4DC00;
+}
+
+.container{
+    position: fixed;
+    
+    width: 100vw;
+    opacity: 0.9;
+    display: flex;
+    justify-content: space-around;
+    background: var(--nav-bg);
+    color: var(--color-fuente) 
+}
+
+.container_nav{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.container_nav .font a{
+    font-weight: bold;
+    text-decoration: none;
+    color: white;    
+}
+
+.container_nav .font a:hover{
+    color: var(--font-hover);
+    transition: .1s ease-in-out;
+}
+
+.container_nav .font:hover{
+    border-bottom: 5px solid var(--font-hover);
+    color: var(--font-hover);
+    transition: .3s ease-in-out;
+}
+
+.font h2:hover{
+    color: var(--font-hover);
+    cursor: pointer;
+    transition: .1s ease-in-out;
+}

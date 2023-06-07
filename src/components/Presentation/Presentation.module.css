@@ -1,0 +1,43 @@
+.container_presentation{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    margin-top: 10px;
+    
+}
+
+h1{
+    border-left: 3px solid greenyellow;
+}
+
+
+.container_text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:60%;
+    margin: 5px;
+    margin-top: 20px;
+}
+
+.container_text_img{
+    display: flex;
+}
+
+.section_text p{
+    text-align: justify;
+    padding: 10px;
+}
+
+.img1{
+    width: 15rem;
+    border-radius: 50%;
+}
+
+.img2{
+    width: 15rem;
+    border-radius: 50%;
+}

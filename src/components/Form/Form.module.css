@@ -1,0 +1,71 @@
+:root{
+    --color-bg-container-form: #224960;
+    --bg-form: #f6f6f6;
+    --color-card: #c4dc00;
+}
+
+.container_form{
+    display: flex;
+    background: var(--color-bg-container-form);
+    width: 80%;
+    height: 60rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px 100px 100px 100px;
+    margin: 160px ;
+    z-index: auto;
+    
+}
+
+.container_form form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: var(--bg-form);
+    border-radius: 10px;
+    margin-bottom: 150px;
+}
+
+.label_inputs{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.label_inputs input{
+    margin: 20px;
+    padding: 5px;
+    width: 20rem;
+    border-radius: 10px;
+    border: 3px solid var(--color-bg-container-form);
+}
+
+select{
+    margin: 10px;
+}
+
+
+.button_form{
+
+    width: 10rem;
+    height: 5rem;
+}
+
+button{
+    margin: 10px;
+    height: 50px;
+    width: 90px;  
+    cursor: pointer; 
+    background: var(--color-bg-container-form);
+    border-radius: 10px;
+}
+
+button:hover{
+    background: var(--color-card);
+    color: white;
+    border: 3px solid black;
+    transition: 0.5s ease-in-out ;
+
+}

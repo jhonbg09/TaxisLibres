@@ -1,0 +1,54 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background: #000000;
+    height: 15rem;
+    width: 100%;
+}
+
+.section_contact{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    width: 40%;
+    
+
+}
+
+
+.container_images{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 60%;
+    height: 8rem;
+    flex-direction: row;
+}
+
+
+img{   
+    width: 180px;
+    height: auto;
+}
+
+.servicios{
+    text-align: left;
+}
+
+.servicios h2{
+    text-align: center;
+}
+
+.servicios ul li{
+    list-style: none;
+}
+
+.contactanos{
+   
+    text-align: justify;
+    width: 10rem;
+    margin-left: 10px;
+}

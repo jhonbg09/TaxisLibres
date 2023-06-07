@@ -1,0 +1,10 @@
+.container_banner{
+    width: 100%;
+    height: 25rem;
+    background: red;
+}
+
+.img_banner{
+    width: 100%;
+    height: 100%;
+}
