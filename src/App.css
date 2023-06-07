@@ -4,7 +4,7 @@
   background: #f6f6f6;
 }
 
-@media screen and (max-width: 844px) {
+ @media screen and (max-width:767px) {
   .App {
     text-align: center;
     width: 100vw;
@@ -19,4 +19,4 @@
   p{
     width: 20rem;
   }
-}
+} 

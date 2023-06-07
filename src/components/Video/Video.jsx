@@ -8,7 +8,7 @@ function Video() {
         <ReactPlayer 
         url='https://youtu.be/led0p-yJArM'
         controls
-        width= '350px'
+        
         />
       
     </div>
