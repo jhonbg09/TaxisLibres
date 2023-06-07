@@ -4,6 +4,13 @@
   background: #F6F6F6;
 }
 
+@media screen and (max-width:844px) {
+ .App {
+  text-align: center;
+  width: 100vw;
+  background: #F6F6F6;
+} 
+}
 
 
 

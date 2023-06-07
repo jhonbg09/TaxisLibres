@@ -13,3 +13,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media screen and (min-width:767px){
+  body{
+    width: 100vw;
+  }
+}

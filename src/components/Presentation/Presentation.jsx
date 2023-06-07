@@ -27,12 +27,10 @@ function Presentation() {
             </p>
           </section>
 
-          <section>
             <div className={styles.container_img}>
               <img className={styles.img1} src={img1_Presentation} alt="img1" />
             </div>
           
-          </section>
         </div>
       </section>
 

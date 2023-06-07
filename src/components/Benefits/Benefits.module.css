@@ -56,3 +56,17 @@
     width: 100px;
     height: 100px;
 }
+
+@media screen and (min-width:767px){
+    .container_cards{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width:390px){
+    .container_cards{
+        display: flex;
+        flex-direction: column;
+    }
+}

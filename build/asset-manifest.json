@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a64f46ec.css",
+    "main.js": "/static/js/main.74f30551.js",
+    "static/media/banner-prueba.png": "/static/media/banner-prueba.5e40c6a9d7c2f4889a5b.png",
+    "static/media/medalla-plata-2do-lugar-plata_87720-2497.avif": "/static/media/medalla-plata-2do-lugar-plata_87720-2497.e9a57b6be1d9332dc85c.avif",
+    "static/media/oro.avif": "/static/media/oro.308289dcbf293737f671.avif",
+    "static/media/bronce.jpeg": "/static/media/bronce.a35f61dbb15b9702bace.jpeg",
+    "static/media/tecnology.png": "/static/media/tecnology.a5e7399d6f3ba79e0e63.png",
+    "static/media/logo-escritorio.webp": "/static/media/logo-escritorio.d735c44deab573b0e098.webp",
+    "static/media/logo-secmovilidad.webp": "/static/media/logo-secmovilidad.d3e2bd9f8cc5572ba6db.webp",
+    "static/media/logo-ansv.webp": "/static/media/logo-ansv.6b8cb825b18fd264db59.webp",
+    "static/media/logo-superindycom (1).webp": "/static/media/logo-superindycom (1).4870c8501e84b267d72a.webp",
+    "index.html": "/index.html",
+    "main.a64f46ec.css.map": "/static/css/main.a64f46ec.css.map",
+    "main.74f30551.js.map": "/static/js/main.74f30551.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a64f46ec.css",
+    "static/js/main.74f30551.js"
+  ]
+}
