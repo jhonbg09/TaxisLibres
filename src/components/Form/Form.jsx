@@ -4,7 +4,7 @@ import logo from "../../assets/image/logo-escritorio.webp";
 function Form() {
   return (
     <div className={styles.container_form}>
-      <div>
+      {/* <div> */}
         <h2 id="form">Formulario de Inscripción Para Evento</h2>
         <h3>Hackaton</h3>
         <form>
@@ -46,7 +46,7 @@ function Form() {
           </div>
         </form>
       </div>
-    </div>
+    // </div>
   );
 }
 

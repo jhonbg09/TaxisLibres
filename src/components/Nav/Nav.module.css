@@ -6,7 +6,7 @@
 
 .container{
     position: fixed;
-    
+    height: 3rem;
     width: 100vw;
     opacity: 0.9;
     display: flex;
@@ -42,4 +42,10 @@
     color: var(--font-hover);
     cursor: pointer;
     transition: .1s ease-in-out;
+}
+
+@media screen and (max-width: 844px){
+    .container_nav{
+        display: none;
+    }
 }
