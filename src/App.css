@@ -1,17 +1,22 @@
 .App {
   text-align: center;
   width: 100%;
-  background: #F6F6F6;
+  background: #f6f6f6;
 }
 
-@media screen and (max-width:844px) {
- .App {
-  text-align: center;
-  width: 100vw;
-  background: #F6F6F6;
-} 
+@media screen and (max-width: 844px) {
+  .App {
+    text-align: center;
+    width: 100vw;
+    background: #f6f6f6;
+  }
+
+  h1{
+    font-weight: bold;
+    width: 20rem;
+  }
+
+  p{
+    width: 20rem;
+  }
 }
-
-
-
-

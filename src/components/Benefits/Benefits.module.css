@@ -69,4 +69,21 @@
         display: flex;
         flex-direction: column;
     }
+
+    .card{
+        background: var(--color-card);
+        width: 300px;
+        margin: 15px;
+        border-radius: 10px;
+        border: var(--color-bordes);
+        box-shadow: 10px 13px 10px -3px rgba(0,0,0,0.37);
+    }
+
+    .container_title{
+        width: 20rem;
+    }
+
+    .container_p{
+        width: 20rem;
+    }
 }

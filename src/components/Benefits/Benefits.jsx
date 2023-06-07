@@ -9,12 +9,12 @@ function Benefits() {
     <div className={styles.container_principal}>
       <section className={styles.container_section}>
         <div className={styles.container_text_hackaton}>
-          <div>
+          <div className={styles.container_title}>
             <h1>¿Por qué participar en el Hackathon Taxis Libres?</h1>
           </div>
 
           <div>
-            <p>
+            <p className={styles.container_p}>
               Participar en el Hackathon Taxis Libres no solo te brinda una
               oportunidad emocionante para mostrar tu talento y creatividad,
               sino que también ofrece incentivos atractivos para los equipos que
